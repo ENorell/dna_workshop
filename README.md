@@ -12,7 +12,10 @@ En introduktion till hur man arbetar med Git och Github.
    * Installera Git Graph extension (valfritt)
    * Lägg till mappen dna_workshop från steg 2 till ditt workspace i VS Code
    * Du bör kunna se detta repo under "Source Control" i vänstra panelen inuti VS Code
-4. Skapa en ny branch med en ändring och puscha (valfritt, vi gör även detta tillsammans)
+4. Sätt ditt användarnamn och mail om du inte gjort det tidigare
+   * `git config --global user.name "Mona Lisa"`
+   * `git config --global user.email "mona.lisa@gmail.com"`
+5. Skapa en ny branch med en ändring och puscha (valfritt, vi gör även detta tillsammans)
    * Skapa en egen branch med valfritt namn genom att köra t.ex. `git branch feature/din_branch`
    * Byt till din nya branch genom `git checkout feature/din_branch`
    * Gör en ändring i en existerande fil med valfritt verktyg, t.ex. VS Code
