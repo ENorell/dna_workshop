@@ -20,3 +20,5 @@ En introduktion till hur man arbetar med Git och Github.
    * Dubbelkolla vilka filer som stageats `git status`
    * Skapa din första commit med ett meddelande t.ex. `git commit -m "emils commit"`
    * Puscha dina ändringar till Github a.k.a remote `git push --set-upstream origin feature/din_branch`
+
+testing
