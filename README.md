@@ -17,7 +17,7 @@ En introduktion till hur man arbetar med Git och Github.
    * `git config --global user.email "mona.lisa@gmail.com"`
 5. Installera Visual Studio Code (VS Code)
    * Lägg till mappen dna_workshop från steg 2 till ditt workspace (File > Add Folder to Workspace)
-   * Du bör kunna se detta repo under "Source Control" i vänstra panelen
+   * Du bör kunna se detta repo under "Source Control" i vänstra panelen (kan dröja ett par minuter)
    * Installera Git Graph extension
    * Testa extensionen genom att trycka på den nya knappen dyker upp i Source Control brevid namnet på repot
 
@@ -39,3 +39,4 @@ En introduktion till hur man arbetar med Git och Github.
    * Ändra en fil på samma ställe som gjorts i en commit som kommit in till main sen du gjorde din branch
    * Hämta ändringar från main till din branch med `git pull origin main`
    * Ifall ändringar har gjorts kring samma kod så kan en "merge conflict" uppstå, VS Code har ett verktyg för att lösa konflikterna
+
